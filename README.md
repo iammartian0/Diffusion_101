@@ -14,4 +14,4 @@ Notes for self learning from [course](https://github.com/huggingface/diffusion-m
 - ~~Likelihood~~
 - ~~KL divergence~~
 - Sampling Conditionally given Variable(target) of interest
--  ~~
+-  
